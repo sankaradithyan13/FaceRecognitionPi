@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="/static/jquery.min.js"></script>
+</head>
+
+<body>
+<p>Processing...</p>
+<script>
+    setInterval(function()
+    {
+        var http = new XMLHttpRequest();
+        http.open('HEAD', "is_done", false);
+        http.send();
+        if (http.status==200)
+            window.location.replace("is_done");
+    },2000);
+</script>
+</body>
+</html>

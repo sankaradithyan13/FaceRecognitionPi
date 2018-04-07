@@ -1,0 +1,39 @@
+<html>
+<body>
+<title>Attendance Record</title>
+<h1 style="text-align:center">Attendance Record</h1>
+<form>
+  Employee ID:<br>
+  <input type="text" name="firstname"><br>
+  Employee Name:<br>
+  <input type="text" name="lastname"><br><br>
+  <button onclick="www.google.co.in">Click me</button>
+</form>
+</body>
+</html>
+<html>
+<body>
+<title>Attendance Record</title>
+<h1 style="text-align:center">Attendance Record</h1>
+<form>
+  Employee ID:<br>
+  <input type="text" name="firstname"><br>
+  Employee Name:<br>
+  <input type="text" name="lastname"><br><br>
+  <button onclick="www.google.co.in">Click me</button>
+</form>
+</body>
+</html>
+<html>
+<body>
+<title>Attendance Record</title>
+<h1 style="text-align:center">Attendance Record</h1>
+<form>
+  Employee ID:<br>
+  <input type="text" name="firstname"><br>
+  Employee Name:<br>
+  <input type="text" name="lastname"><br><br>
+  <button onclick="www.google.co.in">Click me</button>
+</form>
+</body>
+</html>
