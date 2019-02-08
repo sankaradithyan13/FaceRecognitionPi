@@ -13,3 +13,4 @@ This project has following objectives which are fulfilled using OpenCV: -
 5. Blink LED to show the user whether valid entry or not.
 6. Store the in-time and out-time of a valid entry.
 7. Link the stored database with a Centralized Server.
+8. Store a copy of the facial data on the server machine which acts as a backup and can be utilized for centralized access.
