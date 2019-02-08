@@ -1,13 +1,3 @@
-"""Raspberry Pi Face Recognition Treasure Box
-Face Recognition Training Script
-Copyright 2013 Tony DiCola 
-
-Run this script to train the face recognition system with positive and negative
-training images.  The face recognition model is based on the eigen faces
-algorithm implemented in OpenCV.  You can find more details on the algorithm
-and face recognition here:
-  http://docs.opencv.org/modules/contrib/doc/facerec/facerec_tutorial.html
-"""
 import fnmatch
 import os
 
